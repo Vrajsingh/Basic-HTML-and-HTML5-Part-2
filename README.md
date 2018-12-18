@@ -21,8 +21,10 @@ To do this, just add the word "checked" to the inside of an input element. For e
   <ul>
     <li>cat nip</li>
     <li>laser pointers</li>
-
-    <li>flea treatment</li>
+    <li>lasagna</li>
+  </ul>
+    <ol>
+  <li>flea treatment</li>
     <li>thunder</li>
     <li>other cats</li>
   </ol>
@@ -36,8 +38,6 @@ To do this, just add the word "checked" to the inside of an input element. For e
     <input type="text" placeholder="cat photo URL" required>
     <button type="submit">Submit</button>
   </form>
-</main>    <li>lasagna</li>
-  </ul>
-  <p>Top 3 things cats hate:</p>
-  <ol>
+</main>  
+
     
